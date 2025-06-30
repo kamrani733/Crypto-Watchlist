@@ -1,0 +1,10 @@
+.card {
+  width: 30rem;
+  height: 35rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  margin: 1rem;
+  background-color: #DFEBF6;
+  transition: transform 0.2s;
+  display: block;
+}
